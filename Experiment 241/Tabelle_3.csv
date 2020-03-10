@@ -1,0 +1,4 @@
+Widerstand [Ohm],dWiderstand [Ohm],Resonanzfrequenz [kHz],dResonanzfrequenz [kHz],Bandbreite [kHz],dBandbreite [kHz],Ausgangsspannung [Vrms],Eingangsspannung [Vrms]
+1000,50,3.98,0.04,6.03,0.06,0.83,0.98
+220,11,3.89,0.02,1.54,0.03,0.7,0.98
+47,2.35,3.87,0.02,0.68,0.03,0.32,0.98
